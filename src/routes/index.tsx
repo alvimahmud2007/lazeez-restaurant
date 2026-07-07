@@ -213,7 +213,7 @@ function Nav() {
     <header className="fixed inset-x-0 top-0 z-50 backdrop-blur-md bg-background/60 border-b border-gold/10">
       <div className="container-luxe flex items-center justify-between py-4">
         <a href="#top" className="flex items-center gap-2">
-          <img src={lazeezLogo.url} alt="Lazeez Thai Chinese & Kabab" className="h-10 w-10 rounded-full object-cover shrink-0" />
+          <img src={lazeezLogo} alt="Lazeez Thai Chinese & Kabab" className="h-10 w-10 rounded-full object-cover shrink-0" />
           <div className="min-w-0 leading-tight">
             <div className="font-display text-lg tracking-wide">Lazeez</div>
             <div className="text-[10px] uppercase tracking-[0.25em] text-muted-foreground">Thai · Chinese · Kabab</div>
