@@ -8,7 +8,7 @@ import {
 
 import heroPlatter from "@/assets/hero-platter.jpg";
 import foodpandaLogo from "@/assets/foodpanda.png";
-import facebookLogo from "https://www.pngall.com/wp-content/uploads/17/Facebook-Logo-Circle-Creation-PNG.png";
+import facebookLogo from "@/assets/facebook.png";
 import lazeezLogo from "@/assets/lazeez-logo.png";
 import dishBiryani from "@/assets/dish-biryani.jpg";
 import dishKabab from "@/assets/dish-kabab.jpg";
@@ -950,7 +950,7 @@ function FloatingSocial() {
       href: CONTACT.foodpanda,
       label: "Foodpanda",
       bg: "bg-[#FF2B85]",
-      content: <img src={foodpandaLogo.url} alt="" className="h-8 w-8 object-contain" />,
+      content: <img src={foodpandaLogo} alt="" className="h-8 w-8 object-contain" />,
     },
   ];
   return (
