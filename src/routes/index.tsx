@@ -197,7 +197,7 @@ const testimonials = [
   { name: "Sumaiya I.", rating: 5, text: "Delivery was hot, packaged beautifully, tasted like dining in. The pasta alfredo is creamy heaven." },
 ];
 
-const gallery = [g3.url, g4.url, g5.url, g6.url, g7.url, g8.url, g9.url, g10.url];
+const gallery = [g3, g4, g5, g6, g7, g8, g9, g10];
 
 // ---------- Components ----------
 function Nav() {
