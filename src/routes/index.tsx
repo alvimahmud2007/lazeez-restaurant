@@ -859,7 +859,7 @@ function Contact() {
       </div>
     </section>
   );
-}
+} 
 
 function Footer() {
   return (
