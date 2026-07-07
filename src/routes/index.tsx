@@ -7,9 +7,9 @@ import {
 } from "lucide-react";
 
 import heroPlatter from "@/assets/hero-platter.jpg";
-import foodpandaLogo from "@/assets/foodpanda.png.asset.json";
-import facebookLogo from "@/assets/facebook.png.asset.json";
-import lazeezLogo from "@/assets/lazeez-logo.png.asset.json";
+import foodpandaLogo from "@/assets/foodpanda.png";
+import facebookLogo from "@/assets/facebook.png";
+import lazeezLogo from "@/assets/lazeez-logo.png";
 import dishBiryani from "@/assets/dish-biryani.jpg";
 import dishKabab from "@/assets/dish-kabab.jpg";
 import dishBbq from "@/assets/dish-bbq.jpg";
@@ -20,14 +20,14 @@ import dishChargha from "@/assets/dish-chargha.jpg";
 import aboutInterior from "@/assets/about-interior.jpg";
 import storefrontAsset from "@/assets/lazeez-storefront.png.asset.json";
 const storefront = storefrontAsset.url;
-import g3 from "@/assets/gallery-3.png.asset.json";
-import g4 from "@/assets/gallery-4.png.asset.json";
-import g5 from "@/assets/gallery-5.png.asset.json";
-import g6 from "@/assets/gallery-6.png.asset.json";
-import g7 from "@/assets/gallery-7.png.asset.json";
-import g8 from "@/assets/gallery-8.png.asset.json";
-import g9 from "@/assets/gallery-9.png.asset.json";
-import g10 from "@/assets/gallery-10.png.asset.json";
+import g3 from "@/assets/gallery-3.png";
+import g4 from "@/assets/gallery-4.png";
+import g5 from "@/assets/gallery-5.png";
+import g6 from "@/assets/gallery-6.png";
+import g7 from "@/assets/gallery-7.png";
+import g8 from "@/assets/gallery-8.png";
+import g9 from "@/assets/gallery-9.png";
+import g10 from "@/assets/gallery-10.png";
 
 export const Route = createFileRoute("/")({
   head: () => ({
