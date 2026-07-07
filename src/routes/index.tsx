@@ -842,7 +842,7 @@ function Contact() {
               target="_blank" rel="noreferrer"
               className="flex items-center justify-center gap-3 rounded-full bg-[#FF2B85] px-8 py-4 text-sm font-semibold text-white hover:scale-[1.02] transition-transform shadow-[0_10px_30px_-10px_oklch(0.65_0.25_0_/_0.6)]"
             >
-              <img src={foodpandaLogo.url} alt="" className="h-6 w-6 rounded-full object-cover bg-white" />
+              <img src={foodpandaLogo} alt="" className="h-6 w-6 rounded-full object-cover bg-white" />
               Order on Foodpanda
             </a>
           </div>
