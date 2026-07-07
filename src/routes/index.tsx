@@ -19,7 +19,7 @@ import dishPizza from "@/assets/dish-pizza.jpg";
 import dishChargha from "@/assets/dish-chargha.jpg";
 import aboutInterior from "@/assets/about-interior.jpg";
 import storefrontAsset from "@/assets/lazeez-storefront.png";
-const storefront = storefrontAsset.url;
+const storefront = storefrontAsset;
 import g3 from "@/assets/gallery-3.png";
 import g4 from "@/assets/gallery-4.png";
 import g5 from "@/assets/gallery-5.png";
